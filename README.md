@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnimeshChatterjee1
 - 👀 I’m interested in learning new things by applying them on projects.
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning blockchain development.
 - 💞️ I’m looking to collaborate on - any project. 
 - 📫 How to reach me - https://www.linkedin.com/in/animesh-chatterjee-73784b220/
 
